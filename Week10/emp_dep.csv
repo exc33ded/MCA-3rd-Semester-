@@ -1,0 +1,11 @@
+Name,EId,Salary,DID,DName,DLocation
+John Doe,1,50000,1,Sales,New York
+Jane Smith,2,60000,1,Sales,New York
+Bob Johnson,3,70000,2,Marketing,Chicago
+Alice Brown,4,55000,1,Sales,New York
+Mike Davis,5,65000,3,IT,San Francisco
+Emily Taylor,6,45000,2,Marketing,Chicago
+Sarah Lee,7,75000,1,Sales,New York
+David White,8,58000,3,IT,San Francisco
+Kevin Hall,9,62000,2,Marketing,Chicago
+Olivia Martin,10,68000,1,Sales,New York
